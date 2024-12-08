@@ -3,6 +3,7 @@
     "stdio.h": "c",
     "bitset": "c",
     "unordered_map": "c",
-    "1978.C": "cpp"
+    "1978.C": "cpp",
+    "5073.C": "cpp"
   }
 }
