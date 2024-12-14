@@ -4,6 +4,16 @@
     "bitset": "c",
     "unordered_map": "c",
     "1978.C": "cpp",
-    "5073.C": "cpp"
+    "5073.C": "cpp",
+    "__bit_reference": "c",
+    "__hash_table": "c",
+    "__split_buffer": "c",
+    "array": "c",
+    "deque": "c",
+    "initializer_list": "c",
+    "ios": "c",
+    "string": "c",
+    "string_view": "c",
+    "vector": "c"
   }
 }
