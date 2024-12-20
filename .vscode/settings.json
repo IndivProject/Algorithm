@@ -15,6 +15,7 @@
     "string": "c",
     "string_view": "c",
     "vector": "c",
-    "2738.C": "cpp"
+    "2738.C": "cpp",
+    "string.h": "c"
   }
 }
